@@ -1,0 +1,25 @@
+baseURL: ""
+languageCode: en-us
+title: Demo for Hugo
+theme: PaperMod
+
+params:
+  cover:
+    linkFullImages: true
+
+ShowBreadCrumbs: true
+
+menu:
+  main:
+    - identifier: characters
+      name: Characters
+      url: /posts/characters/
+      weight: 10
+    - identifier: Maps & Resources
+      name: Maps & Resources
+      url: /posts/maps-resources/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Demo for Hugo</title>
+    <link>/</link>
+    <description>Recent content on Demo for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Perilous Undertaking for a Pusillanimous Cast</title>
+      <link>/posts/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/welcome/</guid>
+      <description>Welcome God&amp;rsquo;s Ugliest Soldier and Friends! This will be the home base for supplying resources that are useful to reference such as character sheets, maps, item information and synopsis&amp;rsquo; of your journey.</description>
+    </item>
+    
+    <item>
+      <title>Maps and Resources</title>
+      <link>/posts/maps-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/maps-resources/</guid>
+      <description>Items Below you will find information on items as they become relevant to the campaign</description>
+    </item>
+    
+    <item>
+      <title>Characters and Their Sheets</title>
+      <link>/posts/characters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/characters/</guid>
+      <description>Below you will find each characters stat sheet, as well as some of their more valuable lore Yay</description>
+    </item>
+    
+    
+  </channel>
+</rss>
