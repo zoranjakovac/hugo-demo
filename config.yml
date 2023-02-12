@@ -1,6 +1,6 @@
-baseURL: ""
+baseURL: "https://jade-kitsune-484c17.netlify.app"
 languageCode: en-us
-title: Demo for Hugo
+title: God's Ugliest Soldier & Friends Journey
 theme: PaperMod
 
 params:
